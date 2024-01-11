@@ -110,8 +110,6 @@ window.mainloop()
 ANCIEN CODE A SEPARER DU NOUVEAU
 
 #-------------------------------------------------------------------------------------------------------------
-
-
 window = Tk()
 # Creer la frame ( boite )
 frame = Frame(window, background='#70c36d')
